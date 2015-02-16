@@ -10,4 +10,4 @@ A good developer should:
 - Should be attracted to the problem being solved
 
 Mashable had an article on this topic and included a great flowchart of the process of looking for a developer:
-![alt tag](http://rack.2.mshcdn.com/media/ZgkyMDEyLzAzLzAyLzE0XzQwXzU1XzQxN19maWxlCnAJdGh1bWIJMTIwMHg5NjAwPg/d5c4c337)
+src(http://rack.2.mshcdn.com/media/ZgkyMDEyLzAzLzAyLzE0XzQwXzU1XzQxN19maWxlCnAJdGh1bWIJMTIwMHg5NjAwPg/d5c4c337)
