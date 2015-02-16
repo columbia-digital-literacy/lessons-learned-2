@@ -20,5 +20,10 @@ Lastly, there are native applications, which are written in the language of the 
 Generally speaking, PhoneGap is the cheapest (assuming a previous site) and a native application is the most expensive.
 While there is no right answer, a PhoneGap approach or Titanium Appcelerator may allow you to ‘test the market’ more cheaply than simply writing a native application.
 If the test is successful, a native application could then be written.
+For a visual of the differences from a user perspective between a native and mobile app, see the following picture
+![Native App v Web App](http://2.bp.blogspot.com/-DtyrnRcuWpQ/UEV4g83CtUI/AAAAAAAAAAk/5IsbDfe2huQ/s1600/native_app_vs_web_app.png)
+See the following link for a detailed comparison of mobile websites and mobile apps
+[Mobile Website v Mobile App](http://hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/)
+
 
 
