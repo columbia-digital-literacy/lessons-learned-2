@@ -8,3 +8,5 @@ A good developer should:
 - Can answer the what, how, and why
 - Be able to communicate effectively to determine product needs
 - Should be attracted to the problem being solved
+
+Mashable had an article on this topic and included a great flowchart of the process of looking for a developer:
