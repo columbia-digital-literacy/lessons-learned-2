@@ -19,4 +19,4 @@ For more help, click [here!](http://guide.agilealliance.org/guide/rolefeature.ht
 
 Let me know what you think @rrw707 @nennis15 @jlee15 thanks guys!
 
-![GitHub Logo](/images/logo.png)
+[GitHub Logo](/images/logo.png)
