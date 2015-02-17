@@ -1,2 +1,5 @@
 How to write effective User Stories
-Start....
+A User Story is an effective way to convey a desired feature.  It should be written in the Connextra format , which is as follows:
+As a "role":
+I want "feature":
+So that "benefit":
