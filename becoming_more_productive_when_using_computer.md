@@ -8,7 +8,7 @@ Some specific tips I’ve learned during the course –
 
 - Learn touch typing – spend more time thinking on important tasks, rather than looking at keyboard
 
-- Use scripts – for really common actions and tasks use scripts (or productivity software like Alfred for Mac). I’ve downloaded Alfred after the third class, and it seems as if it will change my computer habits for good. For PC, one can easily write batch scripts. Microsoft even offers a tutorial for that, see [Microsoft batch tutorial](https://technet.microsoft.com/en-us/library/ee176792.aspx "https://technet.microsoft.com/en-us/library/ee176792.aspx")
+- Use scripts – for common actions and tasks use scripts (or productivity software like Alfred for Mac). I’ve downloaded Alfred after the third class, and it seems as if it will change my computer habits for good. For PC, one can easily write batch scripts. Microsoft even offers a tutorial for that, see [Microsoft batch tutorial](https://technet.microsoft.com/en-us/library/ee176792.aspx "https://technet.microsoft.com/en-us/library/ee176792.aspx")
 
 - Read recommended business/technology literacy (e.g., The Pragmatic Programmer). Improves not only technical, but also management and productivity skills
 
