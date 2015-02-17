@@ -20,7 +20,7 @@ A collection of stories of a similar topic (could be "reporting" above) is calle
 
 For more help, click [here!](http://guide.agilealliance.org/guide/rolefeature.html)
 
-Let me know what you think @rrw707 @nennis15 @jlee15 thanks guys!
+Let me know what you think @rrw707 @nennis15 @jlee15 thanks guys!  Throw those skittles in the air!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![All bout that action boss](http://www.seahawks.com/assets/images/imported/SEA/articleImages/events/2013/140202-vs-broncos/140128-lynch-skittles-media-day-600.jpg)
 
