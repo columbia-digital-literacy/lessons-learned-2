@@ -12,6 +12,6 @@ then having a discrete step-up in value capture that is typical through Scrum.
 
 Want to learn more about Scrum and Kanban? Click [here](http://vinuity.com/wp-content/uploads/2014/08/WP-Utilizing-Scrum-vs-Kanban.pdf)!
 
-[pic](http://www.boylesoftware.com/blog/wp-content/uploads/2014/11/400x269_scrum_vs_kanban.jpg)
+![pic](http://www.boylesoftware.com/blog/wp-content/uploads/2014/11/400x269_scrum_vs_kanban.jpg)
 
 Let me know what you think @rrw707 @nennis15 @branlund
