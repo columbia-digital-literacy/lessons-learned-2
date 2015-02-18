@@ -1,1 +1,8 @@
-When you think about a new business idea related 
+The majority of page views come from mobile devices. 
+Every company that wants to be 'connected' needs a mobile-optimized website.
+In some case, a  mobile app may be suitable in addition to the website.
+There are three approaches to develop a mobile app:
+* [PhoneGap](http://phonegap.com)/[Cordova](http://cordova.apache.org)
+* [Titanium Appcelerator](http://www.appcelerator.com) and [Xamarin](http://xamarin.com)
+* Native application
+
