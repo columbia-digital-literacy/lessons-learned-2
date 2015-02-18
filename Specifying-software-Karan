@@ -1,5 +1,6 @@
 Specifying software takeaways:
-- Use the jobs-to-be-done framework
-- Describe what you want to the developer but it probably will not be what you need 
-- Don't build a software till you need to
-- 
+Survery end users to identify what they're looking for
+Use the jobs-to-be-done framework to identify the problem that you're trying to solve
+Describe what you want to the developer. However, it will likely not be what you need 
+Use prototyping to develop a Minimum Viable Product
+Don't build software till you need to!
