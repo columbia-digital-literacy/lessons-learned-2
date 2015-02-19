@@ -2,7 +2,7 @@ One of the more valuable pearls of wisdom I took away from the Digital Literacy 
 
 1. software development is slow
 2. there is not enough supply of good programmers
-3. software is only a fixed cost if you fale - scaling is expensive
+3. software is only a fixed cost if you fail - scaling is expensive
 
 Therefore, it is recommended that you maximize the rate at which you learn.  For starters, before writing software it is probably important to know the answers to the following questions:
 
