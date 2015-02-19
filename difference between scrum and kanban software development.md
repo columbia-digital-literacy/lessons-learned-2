@@ -22,7 +22,7 @@ Benefits of Kanban:
 - No end of sprint "bad work"
 - Quicker progress (with well-defined process)
 
-Below are images I found on the internet depicting the two differnt agile software development frameworks:
+Below are images I found on the internet depicting the two different agile software development frameworks:
 
 **Scrum process**
 
