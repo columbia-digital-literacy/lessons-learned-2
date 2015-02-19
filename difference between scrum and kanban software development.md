@@ -23,10 +23,11 @@ Benefits of Kanban:
 - Quicker progress (with well-defined process)
 
 Below are images I found on the internet depicting the two differnt agile software development frameworks:
-Inline-style: 
+
+**Scrum process**
 ![scrum process](https://www.maxxor.com/images/Scrum.jpg "The Scrum Software Development Process")
 
-Inline-style: 
+**Kanban process**
 ![kanban process](http://blog.crisp.se/henrikkniberg/images/qconsf-2009-kanban.jpg "The Kanban Software Development Process")
 
-Also, [here's](http://www.infoq.com/news/2009/05/kniberg-kanban-v-scrum "Scrum vs. Kanban") a good article I found online also describing the difference between scrum and kanban
+Also, [here's](http://www.infoq.com/news/2009/05/kniberg-kanban-v-scrum "Scrum vs. Kanban") a good article I found online also describing the difference between scrum and kanban. 
