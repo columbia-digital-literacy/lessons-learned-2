@@ -7,6 +7,7 @@ There are three approaches to develop a mobile app:
 * [Titanium Appcelerator](http://www.appcelerator.com) and [Xamarin](http://xamarin.com),
 * Native application.
 
+The first two are open-source frameworks that allows developers to create mobile apps using standardized web APIs and common techologies such as HTML, CSS, and JavaScript, that can work of different platforms. The third instead are apps specifically developed for one platform (iOS, Android, Windows, ...) and don't work anywhere else.
 Each of these approaches has advantages and disadvantes. 
 I would ask myself two major questions before deciding which is the right one for the app I'm developing:
 
