@@ -4,7 +4,8 @@ In some case, a  mobile app may also be suitable in addition to the website.
 There are three approaches to develop a mobile app:
 * [PhoneGap](http://phonegap.com)/[Cordova](http://cordova.apache.org)
 * [Titanium Appcelerator](http://www.appcelerator.com) and [Xamarin](http://xamarin.com)
-* Native application
+* Native application.
+
 Each of these approaches has advantages and disadvantes. 
 I would ask myself two major questions before deciding which is the right one for the app I'm developing:
 1) How many platforms (iOS, Android, Windows,...) do I want to develop the app for? Hybrid technologies such as PhoneGap and Titanium make it easier to optimize for different platforms without re-writing the code. Going Native instead requires a very different language for each platform, meaning higher costs, longer timing and generally more programmers to hire (very few know well enough two-three different languages). 
