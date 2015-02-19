@@ -9,7 +9,7 @@ For example, if you’re working for a startup that is planning to provide same 
 3. New inventory information would have to be sent back to the retailer along with confirmation that the order was fulfilled or any problems fulfilling the delivery. 
 4. We would send retailers analytics that may help with their business. For instance, based on ordering patterns and in-stock data, we can send them analytics that will help improve inventory allocation across our network of warehouses. 
 
-Thinking about how to specify APIs also gave me greater insight into how companies decide whether to allow an open API to all developers or restrict access. I found this article on LinkedIn's recent decision to restrict its API use particularly interesting: http://techcrunch.com/2015/02/12/linkedin-battens-down-the-hatches-on-api-use-limiting-full-access-to-partners/#iVKfmk:u8d
+Thinking about how to specify APIs also gave me greater insight into how companies decide whether to allow an open API to all developers for free (open API) or restrict access to developers that pay for access (closed API). I found this article on LinkedIn's recent decision to restrict its API use particularly interesting: http://techcrunch.com/2015/02/12/linkedin-battens-down-the-hatches-on-api-use-limiting-full-access-to-partners/#iVKfmk:u8d
 
 ![alt text](http://library.csu.edu/csit/nf/intro/images/computers.gif)
 
