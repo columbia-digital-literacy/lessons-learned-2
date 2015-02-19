@@ -11,3 +11,6 @@ I would ask myself two major questions before deciding which is the right one fo
 2) What hardware-functionalities does the app use? Native languages allow to better communicate with hardware and therefore use more and better the hardware-functionalities available. Hybrid technologies are limited in this respect.
 Once you have the aswers to those questions pick the techology which is most effective.
 Remember to make the decision based on your situation in that very moment. Any choice you make, you will still have to re-write all your code in a year or two in order to make the app scalable.
+
+
+![Apps Logo](http://www.sassyjanegenealogy.com/wp-content/uploads/2013/05/apps-image.jpg)
