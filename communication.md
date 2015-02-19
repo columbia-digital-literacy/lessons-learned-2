@@ -4,5 +4,7 @@ Specify the most important feature of your app that will differentiate it from o
 
 Give your developer several user stories about the app. As a (role, i.e. visitor, customer, administrator, etc.), I want (feature) so that (benefit). You don't want the developer to build the app just for the sake of building it; you want him to empathize with the end user so that he can cater it specifically to their needs. Additionally, make sure not to confuse benefits to the end user with benefits to the business owner (i.e. does the end user really care if the app makes life easier for the warehouse manager?)
 
+(http://www.entrepreneur.com/article/224816)
+
 @rrw707 @branlund
 ![All bout that action boss](http://wunderlandhome.com/wp-content/uploads/2012/10/dont-tell-people.jpg)
