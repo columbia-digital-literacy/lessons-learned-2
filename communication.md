@@ -6,5 +6,5 @@ Give your developer several user stories about the app. As a (role, i.e. visitor
 
 Want to learn more? Click [here!](http://www.entrepreneur.com/article/224816)
 
-@rrw707 @branlund
+@rrw707 @branlund @jlee15
 ![All bout that action boss](http://wunderlandhome.com/wp-content/uploads/2012/10/dont-tell-people.jpg)
