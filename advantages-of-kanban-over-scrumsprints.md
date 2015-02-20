@@ -4,5 +4,7 @@
 
 
 
-[This a summary of Kanban](http://en.wikipedia.org/wiki/Kanban_%28development%29 "Kanban (software development) Wiki")
+[This a summary of Kanban
+](http://en.wikipedia.org/wiki/Kanban_%28development%29 "Kanban (software development) Wiki")
+
 ![alt text](http://upload.wikimedia.org/wikipedia/commons/d/d3/Simple-kanban-board-.jpg "Kanban Board")
