@@ -11,6 +11,6 @@ If your answer is Yes 3 times, it then comes down to funding. If you have the fu
 
 Here is a great [blog](http://strongloop.com/strongblog/titanium-vs-phonegap-cross-platform-mobile-framework/) discussing the pros and cons of each.
 
-![](http://guadalux.org/wp-content/uploads/2013/08/phonegap-vs-titanium.jpg)
+![](http://evonexus.org/wp-content/uploads/2014/01/12012.png)
 
 And that’s a wrap
