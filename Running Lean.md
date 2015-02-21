@@ -6,4 +6,4 @@ Concierge MVP prototypes provide potential customers with the impression of what
 
 Get Lean now. Read up. Join the party: http://theleanstartup.com/
 
-[Alt Text](http://img3.wikia.nocookie.net/__cb20130908135918/villains/images/2/26/Bebopandrocksteady.jpg)
+![Alt Text](http://img3.wikia.nocookie.net/__cb20130908135918/villains/images/2/26/Bebopandrocksteady.jpg)
