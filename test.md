@@ -26,4 +26,4 @@ Both as a worker and a manager:
 
 The book can be purchased on Amazon at http://www.amazon.com/s/ref=nb_sb_noss/180-7892125-6606708?url=search-alias%3Daps&field-keywords=pragmatic+programmer 
 
-![Alt Text](http://static.boredpanda.com/blog/wp-content/uploads/2015/02/Dogs-Can-Be-Jerks-Too-8__605.jpg)
+Here is a picture of how not to be a good manager of people: ![Alt Text](http://static.boredpanda.com/blog/wp-content/uploads/2015/02/Dogs-Can-Be-Jerks-Too-8__605.jpg)
