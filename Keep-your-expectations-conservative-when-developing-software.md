@@ -4,4 +4,4 @@ In conclusion, micromanaging your developer is not the solution to building your
 
 Let me know what you think @Branlund @nennis15 @jlee15 ! 
 
-![All bout that action boss](http://www.seahawks.com/assets/images/imported/SEA/articleImages/events/2013/140202-vs-broncos/140128-lynch-skittles-media-day-600.jpg)
+![The Rock](http://i.giphy.com/6Dj7ZWBERpGU0.gif)
