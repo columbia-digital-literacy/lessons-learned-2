@@ -6,6 +6,6 @@ As @JChan95 discussed, it is important to very clearly establish and define the 
 
 It is also important to focus on detailed requirements. Obviously some broad, higher level information is important. However, it is important that you are able to effectively relay your vision and give detailed guidance. This can be done in the form of a user story or a detailed end-product requirement. But remember, don't be afraid to let them chime in with advice and potentially change the direction of things (if it's in an acceptable way). They are likely going to be more of a technical expert than you (as a manager) and will often have sound insights.
 
-
+Additionally, don't forget to apply general management techniques to developers. Get to know your team. Give feedback as often as you can to ensure that they are improving where they need to be and also being recognized for strong work. Try to colocate your team as much as possible to facilitate cooperation, ensure maximium efficiency, and increase lessons learned.
 
 ![programmer](http://mattdubois.com/wp-content/uploads/2013/08/computer-support.jpeg)
