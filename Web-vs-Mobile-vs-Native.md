@@ -13,4 +13,4 @@ Here is a great [blog](http://strongloop.com/strongblog/titanium-vs-phonegap-cro
 
 ![](http://evonexus.org/wp-content/uploads/2014/01/12012.png)
 
-And that’s a wrap
+And that’s a wrap!
