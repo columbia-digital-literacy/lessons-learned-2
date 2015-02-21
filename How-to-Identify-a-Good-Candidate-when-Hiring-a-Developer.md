@@ -5,6 +5,7 @@ The most important takeaway from Digital Literacy class is that this can easily 
 1. What version control tool do you use? Why do you use that over others?
 2. Do you use frameworks? [Note: THEY SHOULD DEFINITELY USE FRAMEWORKS) Why do you use [framework of choice] over the others available?
 3. Do you have a GitHub acocunt? It is important that developers have used GitHub and have collaborated
+4. Ask the candidate if they have worked on development teams and what method they have used (Scrum and Kanban are preferred)
 
 In all cases, the candidate should be using some sort of version control tool/frameworks, etc. And they should have a structured reason why they are using that over another.
 
