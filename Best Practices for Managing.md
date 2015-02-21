@@ -8,4 +8,4 @@ It is also important to focus on detailed requirements. Obviously some broad, hi
 
 
 
-!(http://api.ning.com/files/xStF1Jwf0W*O2qW6uLksHrfYSuNZMec86NfceQEf11uBtU3ci4lLUur4Hn0u-Du0JIPh6uV2eB4QSVw3r6WeJXqdwHLO9wXN/DBANerd.jpg)
+![programmer](http://api.ning.com/files/xStF1Jwf0W*O2qW6uLksHrfYSuNZMec86NfceQEf11uBtU3ci4lLUur4Hn0u-Du0JIPh6uV2eB4QSVw3r6WeJXqdwHLO9wXN/DBANerd.jpg)
