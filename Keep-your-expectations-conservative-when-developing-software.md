@@ -4,4 +4,5 @@ In conclusion, micromanaging your developer is not the solution to building your
 
 Let me know what you think @Branlund @nennis15 @jlee15 ! 
 
+Do you smell what The Rock is cooking?
 ![The Rock](http://i.giphy.com/6Dj7ZWBERpGU0.gif)
