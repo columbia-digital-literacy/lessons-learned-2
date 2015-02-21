@@ -1,4 +1,4 @@
-# H1 Some Advantages of Kanban vs. Scrum
+# Some Advantages of Kanban vs. Scrum
 
 
 [Click here to see a summary of SCRUM](http://en.wikipedia.org/wiki/Scrum_%28software_development%29 "SCRUM (software development) Wiki")
