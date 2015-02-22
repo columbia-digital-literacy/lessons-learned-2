@@ -28,28 +28,31 @@ I was really excited to test out the Connextra model to help solve a current bus
 
 Using the Connextra model, my team and I set aside a lunch meeting to develop a series of epics and user stories to outline who would be potentially using the database, the features we desired, and the benefits we hoped those features would provide.  We used colorful sticknotes on a white board so that we could organize the user stories into epics/themes.  A few examples are shown below.  
 
-*Organizer/Adocate
-*Filter Businesses by Location
-*Invite Businesses to Local Events
-
 **ORGANIZER/ADVOCATE**
+
 **FILTER BUSINESSES BY LOCATION**
+
 **ENGAGE BUSINESSES IN OUR LOCAL EVENTS AND ACTIVITIES**
 
+
 **DEVELOPMENT/FUNDRAISER**
+
 **FILTER BUSINESESSES BY LOCATION**
+
 **INVITE BUSINESS LEADERS TO RELEVANT FUNDRAISERS**
 
+
 **ORGANIZER/ADVOCATE**
+
 **VIEW INTERACTION HISTORY WITH BUSINESS**
+
 **IMPROVE ENGAGEMENT/AVOID OVERCONTACTING**
 
-**ORGANIZER/ADVOCATE**
-**VIEW NOTES FROM INTERACTION HISTORY**
-**IMPROVE CONTINUITY OF OUTREACH**
 
 **ORGANIZER/ADVOCATE**
+
 **VIEW AREAS OF INTEREST FOR BUSINESS CONTACT**
+
 **TARGET ENGAGEMENT REQUESTS**
 
 The process helped us tp develop a much more comprehensive understanding of the internal users that would be using the product and the features and benefits that the product needed to provide.  We’re now working on prioritizing the most important features and benefits and developing a survey based on the user stories to gain additional feedback from across different users in the organization before we research and evaluate how different software products stack up and ultimately choose one.
