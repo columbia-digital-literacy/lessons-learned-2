@@ -13,10 +13,12 @@ or a *Mobile First* website that will prioritize viewing on mobile devices.
 1. **PhoneGap** is an open source tool that allows you to package your website into an app.
 Although performance and look will not be as slick as a native app, it's quick and inexpensive and works on multiple platforms.
 [link to Phone Gap] (http://phonegap.com/)
+![Image of phonegap] (https://build.phonegap.com/images/marketing/build-diagram.png)
 2. **Titanium Appcelerator** and similar products allow users to build *native-looking* apps that work on both iOS and Android.
 Althought apps will not work as well as native, they will look and feel fairly professional and have the advantage of being
 built more quickly and cheaply than a native app and work across platforms.
 [link to Appcelerator] (http://www.appcelerator.com/)
+![Image of appcelerator triangle] (http://www.appcelerator.com/wp-content/uploads/scale_triangle1.png)
 3. **Native application** is written in the language of the phone whether iOS or Android. This route usually makes sense after
 testing the prototype and learning what an optimal app needs. A native app will likely be the most costly and time-consuming, 
 but it should also have the best performance and look and feel.
