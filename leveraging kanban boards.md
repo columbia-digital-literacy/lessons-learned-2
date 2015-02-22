@@ -20,6 +20,10 @@
                             |               |              |             |
                             |               |              |             |
 
+  or even something like this:
+  
+  ![example board](http://blog.deming.org/wp-content/uploads/2013/07/kanban-board-ladas.jpg)
+  
   It seems like there are quite a few online tools that enable you to manage Kanban boards in the cloud if you choose, rather than the physical whiteboards and sticky notes. One site that follows the *lean* thought process is: [*LeanKit*](http://leankit.com/kanban/kanban-board/).
   
   I like the interactiveness of the boards so that the collaborators have a sense of ownership and accomplishment with the simple act of moving the sticky-note from one column to the next, whether it be a pull from the queue for new work, or a move to the queue for completion.
