@@ -28,9 +28,9 @@ I was really excited to test out the Connextra model to help solve a current bus
 
 Using the Connextra model, my team and I set aside a lunch meeting to develop a series of epics and user stories to outline who would be potentially using the database, the features we desired, and the benefits we hoped those features would provide.  We used colorful sticknotes on a white board so that we could organize the user stories into epics/themes.  A few examples are shown below.  
 
-Organizer/Adocate
-Filter Businesses by Location
-Invite Businesses to Local Events
+*Organizer/Adocate
+*Filter Businesses by Location
+*Invite Businesses to Local Events
 
 **ORGANIZER/ADVOCATE**
 **FILTER BUSINESSES BY LOCATION**
