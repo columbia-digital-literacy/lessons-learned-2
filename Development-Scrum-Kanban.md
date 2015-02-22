@@ -1,6 +1,6 @@
 Scrum is a development process in which related projects are split into small, concrete deliverables.  
 The team then splits time into short "sprints" which are fixed-length iterations usually ~2 weeks long.
-The purpose of this framework is to have small teams spending a short time on small projects rather than a large group spending a long time building large things.
+The purpose of this framework is to have small teams spending a short time on small projects rather than a large group spending a long time building large things.  Scrum is typically suited for projects where the work can be prioritized in batches or where priorities do not shift on a frequent basis.
 
 Kanban is an alternative process in which the workflow is split into discrete stages.
 The main feature of Kanban is limiting "work in process" by explicitly limiting how many items can be in progress at each workflow stage.
