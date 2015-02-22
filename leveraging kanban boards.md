@@ -1,5 +1,7 @@
 ##Leveraging Kanban Boards to Manage Projects##
 
+***Kanban Board Overview***
+
   Who knew that whiteboards and sticky notes could be so powerful! Often when collaborating in teams and across multiple departments, it is difficult to keep track of all aspects of the project and the workflow. The kanban boards provide this central, visual place for all departments to know what each is working on, and shows the status of each development item.
   
   I found these boards to be extremely powerful, from basic boards such as:
@@ -17,6 +19,9 @@
                             |               |              |             |
 
   I like the interactiveness of the boards so that the collaborators have a sense of ownership and accomplishment with the simple act of moving the sticky-note from one column to the next, whether it be a pull from the queue for new work, or a move to the queue for completion.
+  
+  
+  ***Adapting Kanban Boards for Sales***
   
   Although I am currently not managing a development team, I decided to adapt the kanban concept to my current team's sales initiatives, and created boards for each of our accounts and the business initiatives that we would like to achieve. The boards look something like this:
   
