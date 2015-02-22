@@ -16,7 +16,9 @@ Probably the most helpful tool for implementing this framework that was discusse
 **User Story:**
 
 As a **ROLE** (e.g., visitor, customer, administrator)
+
 I want **FEATURE** (e.g., product search, shopping cart)
+
 So that **BENEFIT** (e.g., saves time, inventory management)
 
 The value of this approach in specifying software is that it allows managers to focus on identifying the potential users of the software, the core elements of their experience and the benefits that the users are seeking, without being over prescriptive of the software design.   This gives developers flexibility and freedom to create and design features for the appropriate users to achieve the benefits they desire.
