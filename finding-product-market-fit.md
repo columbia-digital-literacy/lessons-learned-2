@@ -1,6 +1,6 @@
 1/ Start with defining your audience, i.e., core customer group.  Better narrow it down to a specific group of people in a specific geographical location. Understand their pain points, your unique value prop, and avoid the urge to create something "nice to have for everyone yet essential for none" .  
 
-2/ Come up withe a clear, coherent and logical user story -  who would be the typical user? what is he/she like  in terms of gender, age, income level, education etc?  and why would he/she have to use our product to solve a problem? Sample user story here: [I'm an inline-style link](http://www.mountaingoatsoftware.com/agile/user-stories)
+2/ Come up withe a clear, coherent and logical user story -  who would be the typical user? what is he/she like  in terms of gender, age, income level, education etc?  and why would he/she have to use our product to solve a problem? Sample user story [here](http://www.mountaingoatsoftware.com/agile/user-stories)
 
 3/ Brainstorm a feature set for your product. Then narrow your feature set down to one or two features that truly matter (i.e. absolutely necesssary to include in your product, no matter what). To determine which feature you should initially focus on, definitely spend time with customers, and examine areas where competitors fall short. 
 
