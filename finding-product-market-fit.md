@@ -10,4 +10,5 @@
 
 6/ If you work for a large corp, define your endeavor as an "experiment" rather than a new official "project" to avoid unnecessary attention from legal/compliance and win support from your senior management 
 
+![alt text](http://www.personalbrandingblog.com/wp-content/uploads/2013/03/shutterstock_114696136-300x165.jpg "win your users")
 
