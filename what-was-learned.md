@@ -1,4 +1,0 @@
-lessons-learned
-===============
-
-learned-everything!
