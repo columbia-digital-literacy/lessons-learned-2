@@ -10,6 +10,8 @@ This class provided us a strong framework and some hands-on tools to better arti
 
 **The Job:**  Thinking of software in terms of the jobs that need to be done for the specific audience(s) is the final component.  This involves thinking about the user experience and the benefits that features will provide end users.
 
+The Institute for Electrical and Electronics Engineers have set some standards for software requirements specification that goes into more detail on some of the issues involved in software specification if you want to go deeper.  http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf
+
 ##Hands-on Tools: Connextra##
 ![Dilbert on User Stories](https://runningagile.files.wordpress.com/2008/05/dilbert_need_more_programers.gif?w=450&h=158)
 
@@ -30,31 +32,20 @@ I was really excited to test out the Connextra model to help solve a current bus
 
 Using the Connextra model, my team and I set aside a lunch meeting to develop a series of epics and user stories to outline who would be potentially using the database, the features we desired, and the benefits we hoped those features would provide.  We used colorful sticknotes on a white board so that we could organize the user stories into epics/themes.  A few examples are shown below.  
 
-**ORGANIZER/ADVOCATE**
+* **ORGANIZER/ADVOCATE**
+* **FILTER BUSINESSES BY LOCATION**
+* **ENGAGE BUSINESSES IN OUR LOCAL EVENTS AND ACTIVITIES**
 
-**FILTER BUSINESSES BY LOCATION**
+* **DEVELOPMENT/FUNDRAISER**
+* **FILTER BUSINESESSES BY LOCATION**
+* **INVITE BUSINESS LEADERS TO RELEVANT FUNDRAISERS**
 
-**ENGAGE BUSINESSES IN OUR LOCAL EVENTS AND ACTIVITIES**
+* **ORGANIZER/ADVOCATE**
+* **VIEW INTERACTION HISTORY WITH BUSINESS**
+* **IMPROVE ENGAGEMENT/AVOID OVERCONTACTING**
 
-
-**DEVELOPMENT/FUNDRAISER**
-
-**FILTER BUSINESESSES BY LOCATION**
-
-**INVITE BUSINESS LEADERS TO RELEVANT FUNDRAISERS**
-
-
-**ORGANIZER/ADVOCATE**
-
-**VIEW INTERACTION HISTORY WITH BUSINESS**
-
-**IMPROVE ENGAGEMENT/AVOID OVERCONTACTING**
-
-
-**ORGANIZER/ADVOCATE**
-
-**VIEW AREAS OF INTEREST FOR BUSINESS CONTACT**
-
-**TARGET ENGAGEMENT REQUESTS**
+* **ORGANIZER/ADVOCATE**
+* **VIEW AREAS OF INTEREST FOR BUSINESS CONTACT**
+* **TARGET ENGAGEMENT REQUESTS**
 
 The process helped us tp develop a much more comprehensive understanding of the internal users that would be using the product and the features and benefits that the product needed to provide.  We’re now working on prioritizing the most important features and benefits and developing a survey based on the user stories to gain additional feedback from across different users in the organization before we research and evaluate how different software products stack up and ultimately choose one.
