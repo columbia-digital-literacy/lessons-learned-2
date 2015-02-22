@@ -12,6 +12,7 @@ This class provided us a strong framework and some hands-on tools to better arti
 
 ##Hands-on Tools: Connextra##
 ![Dilbert on User Stories](https://runningagile.files.wordpress.com/2008/05/dilbert_need_more_programers.gif?w=450&h=158)
+
 Probably the most helpful tool for implementing this framework that was discussed in class is the Connextra model, which breaks the software specification process down into a series of epics and user stories.  
 
 **User Story:**
