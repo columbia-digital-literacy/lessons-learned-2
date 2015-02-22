@@ -1,13 +1,9 @@
 A key take-away for me from Digital Literacy class was when to use a website vs an app, and when to use PhoneGap or Titanium vs a natively built app.
 
 A website is the best solution to ensure
-
 • Time-to-market
-
 • Reach
-
 • Simplicity
-
 • Skills
 
 Having a responsive (mobile first) website also has the advantage of being well visible on a mobile device of any operating system without having to download an additional app. Twitter Bootstrap and Zurb Foundation are free tools that can be helpful for creating responsive websites.
