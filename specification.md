@@ -10,7 +10,7 @@ This class provided us a strong framework and some hands-on tools to better arti
 
 **The Job:**  Thinking of software in terms of the jobs that need to be done for the specific audience(s) is the final component.  This involves thinking about the user experience and the benefits that features will provide end users.
 
-The Institute for Electrical and Electronics Engineers have set some standards for software requirements specification that goes into more detail on some of the issues involved in software specification if you want to go deeper.  http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf
+The Institute for Electrical and Electronics Engineers have set some standards for software requirements specification that goes into more detail on some of the issues involved in software specification if you want to go deeper. See [here](http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf) for more info.
 
 ##Hands-on Tools: Connextra##
 ![Dilbert on User Stories](https://runningagile.files.wordpress.com/2008/05/dilbert_need_more_programers.gif?w=450&h=158)
