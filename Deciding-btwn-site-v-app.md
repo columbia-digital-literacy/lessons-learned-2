@@ -15,7 +15,7 @@ Although performance and look will not be as slick as a native app, it's quick a
 [link to Phone Gap] (http://phonegap.com/)
 ![Image of phonegap] (https://build.phonegap.com/images/marketing/build-diagram.png)
 2. **Titanium Appcelerator** and similar products allow users to build *native-looking* apps that work on both iOS and Android.
-Althought apps will not work as well as native, they will look and feel fairly professional and have the advantage of being
+Although apps will not work as well as native, they will look and feel fairly professional and have the advantage of being
 built more quickly and cheaply than a native app and work across platforms.
 [link to Appcelerator] (http://www.appcelerator.com/)
 ![Image of appcelerator triangle] (http://www.appcelerator.com/wp-content/uploads/scale_triangle1.png)
