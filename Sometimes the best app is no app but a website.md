@@ -48,3 +48,4 @@ An app is generally the more expensive and complex way to go. Users generally ha
 If you are sure that an app is the best solution for you, check out this link to learn lessons from the world’s most successful mobile apps, like Instagram, Snapchat, Evernote, Clear, and Camera+:
 
 http://www.entrepreneur.com/article/230160
+
