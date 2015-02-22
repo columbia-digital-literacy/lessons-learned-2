@@ -20,6 +20,7 @@ Fixed Bid:
   - It's difficult for a programmer to determine how long certain projects will take
   - The project cost estimate is ussually rounded significantly up by the programmer to hedge against unforseen issues
   - Fixed bids puts a lot of pressure on initial specs, which is problematic if you're still prototyping with users
+  
 Conclusion:
 Unless you have a small project with a very simple scope, it does not makes sense to pay via fixed bid.
 Even with small projects with simple scope, it still probably makes sense to pay per hour instead.
