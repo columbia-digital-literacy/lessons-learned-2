@@ -45,4 +45,4 @@ Using the Connextra model, my team and I set aside a lunch meeting to develop a 
   * View Interaction History with Business 
   * Avoid Oversolicitation/Increase Engagement
 
-The process helped us tp develop a much more comprehensive understanding of the internal users that would be using the product and the features and benefits that the product needed to provide.  We’re now working on prioritizing the most important features and benefits and developing a survey based on the user stories to gain additional feedback from across different users in the organization before we research and evaluate how different software products stack up and ultimately choose one.
+The process helped us to develop a much more comprehensive understanding of the internal users that would be using the product and the features and benefits that the product needed to provide.  We’re now working on prioritizing the most important features and benefits and developing a survey based on the user stories to gain additional feedback from across different users in the organization before we research and evaluate how different software products stack up and ultimately choose one.
