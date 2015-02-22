@@ -1,0 +1,19 @@
+# Graph databases are all the talk nowadays, but are they worth the hype?
+# The answer to that question is yes, especially if you have a business that relies on managing _relationshpis_ between things
+Example 1: Facebook uses graph databases to glean information about your preferences, and can use algorithms to "predict" what kinds of things you like, based on what your friends like
+Example 2: UPS can use graph databases to optimize logistics planning and travel by analyzing traffic patterns 
+Example 3: Companies like Amazon can use graph databases to recommend products to you that you may not have thought about buying
+
+# Instead of using tables, information is stored in a node.
+# The node is "mapped" to other nodes according to the relationship between the nodes
+# Queries can pull information using the relationships, rather than by pulling information from single tables, or in a joined manner
+
+# The benefits of this are:
+# (1) Flexible and scalable method for storing data, as nodes can be added without affecting other nodes because they are independent stores of information
+# (2) Querying is more "intuitive" - in other words, writing queries to pull information from Graph DBs is more logical and easier than writing queries to pull information from tables
+# (3) Easier to identify patterns in the data, which may be difficult to identify from relational tables
+
+For more information on graph databases, check out this link: http://neo4j.com/developer/graph-database/
+Or this one (since I'm single and it relates to online dating): http://www.forbes.com/sites/danwoods/2014/02/14/50-shades-of-graph-how-graph-databases-are-transforming-online-dating/
+
+Hope this was helpful!
