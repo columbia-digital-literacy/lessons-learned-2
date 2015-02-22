@@ -12,26 +12,16 @@ Having a responsive (mobile first) website also has the advantage of being well 
 
 
 On the other hand, the advantages of an **app** are
-
-• Owning the app ‘real estate’ space
-
-• Allowing the user to do more (e.g. interact with GPS, camera, accelerometer)
-
-• Higher performance
-
-• Offline usability
-
-• In-store promotions/geo-tagging
-
-• Notifications
-
-• Buzz
-
-• Creating a habit
-
-• Potential personalization
-
-• Can be free or paid, or provide in-app paid services
+* Owning the app ‘real estate’ space
+* Allowing the user to do more (e.g. interact with GPS, camera, accelerometer)
+* Higher performance
+* Offline usability
+* In-store promotions/geo-tagging
+* Notifications
+* Buzz
+* Creating a habit
+* Personalization (and auto-login)
+* Can be free or paid, or provide in-app paid services
 
 
 When an app is needed, *PhoneGap* can provide a quick and affordable prototype that works on all devices, while *Titanium* is a more aesthetic solution but not available for all operating systems. A *native app* is the most expensive solution and has to be developed for each operating system individually. If this is the best solution in the long run, it might pay off to invest in an app early.
@@ -44,4 +34,3 @@ An app is generally the more expensive and complex way to go. Users generally ha
 If you are sure that an app is the best solution for you, check out this link to learn lessons from the world’s most successful mobile apps, like Instagram, Snapchat, Evernote, Clear, and Camera+:
 
 http://www.entrepreneur.com/article/230160
-
