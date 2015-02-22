@@ -1,0 +1,14 @@
+When typing in: 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage") 
+in your browser, your browser wants to translate this human-readable format into an IP address. 
+An IP address is 4 bytes (represented by 4 numbers) which is a device's "address" on the internet.
+
+To get the appropriate IP number, the browser would turn to a DNS - the web's "phone book". The search is conducted hierarchically - if the IP isn't stored on your browser, it would check your OS, then your ISP, and if your ISP can't find it, it will look further up the hierarchy.
+
+Once IP is located, a connection with Google's servers is initiated:
+ 
+![alt text](http://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads/2012/10/ff_googleinfrastructure_large.jpg "Google's Data Center")
+
+- and your browser would send a HTTP request to Google's server.
+Google would handle all these incoming requests using a load balancer.
+Sometimes the same URL would lead to different servers, depending on the user's location and current traffic.
