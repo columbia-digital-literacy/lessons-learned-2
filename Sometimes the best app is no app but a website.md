@@ -23,7 +23,7 @@ On the other hand, the advantages of an app are
 When an app is needed, PhoneGap can provide a quick and affordable prototype that works on all devices, while Titanium is a more aesthetic solution but not available for all operating systems. A native app is the most expensive solution and has to be developed for each operating system individually. If this is the best solution in the long run, it might pay off to invest in an app early.
 An app is generally the more expensive and complex way to go. Users generally have their limited number of apps that they use on a regular basis. Often these apps have strong network effects (e.g. Facebook, Whatsapp) or require strong performance (e.g. games) or should have offline functionality as well (e.g. books, songs). A website with a login section can provide a great user experience across operating systems and devices at lower cost and should be the place to start for most to test the concept and build a regular user base.
 
-[Alt Text] https://camo.githubusercontent.com/892ae07dd1336e40fccaa021308f93e916d5949d/687474703a2f2f74336e2e64652f6e6577732f77702d636f6e74656e742f75706c6f6164732f323031322f30362f6d6f62696c652d776562736974652d696e666f67726166696b2d6175737363686e6974742d2d353935783435332e706e67
+![Alt Text](http://t3n.de/news/wp-content/uploads/2012/06/mobile-website-infografik-ausschnitt--595x453.png)
 
 If you are sure that an app is the best solution for you, check out this link to learn lessons from the world’s most successful mobile apps, like Instagram, Snapchat, Evernote, Clear, and Camera+:
 
