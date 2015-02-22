@@ -1,0 +1,11 @@
+Epics and stories are a great way to communicate with developers 
+An epic is a "big" theme or idea that can contain multiple user stories 
+A user story is a short statement that allows the user (or a developer speaking to another developer) to concisely
+state what he wants to accomplish via a certain functionality. 
+User stories are a great way to communicate because they quickly and clearly summarize what the user wants and why he wants it
+Stories are generally written in the "As _, I would like to_, so that I can _." 
+For example: As a user, I would like to have a shopping cart feature on the website, so that I can order multiple items 
+at the same time
+To learn more about user stories, please go to:
+[1]:http://www.agilemodeling.com/artifacts/userStory.htm
+![example] (http://www.mountaingoatsoftware.com/system/asset/file/62/backlog.jpg)
