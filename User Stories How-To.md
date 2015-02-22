@@ -16,6 +16,8 @@ A collection of stories of a similar topic (i.e. could be "reporting" above) is 
 * Small: see above
 * Testable: needs to be tested
 
+Remember, "features" can be told from a different perspective "role," which can help the developer see the big picture.  Also, make sure that the benefit of the user story really does benefit the end user and isn't only a benefit for the company making the app (i.e. the end user doesn't care if a retailer's app makes the ordering process cheaper for the retailer).  Finally, you can also use the back of user story cards to write down acceptance criteria in order to validate that the user story has been implemented correctly.
+
 For more help, click [here!](http://guide.agilealliance.org/guide/rolefeature.html)
 
 Let me know what you think @rrw707 @nennis15 @jlee15, thanks guys!  Throw those Skittles in the air!
