@@ -30,22 +30,19 @@ The value of this approach in specifying software is that it allows managers to 
 ##Business Case Example:##
 I was really excited to test out the Connextra model to help solve a current business problem my organization faces.  I manage a team of policy advocates and campaign organizers who are working to build relationships with clean energy businesses and engage them in state and federal energy policy issues.  One of the key challenges we face is that we don’t have an effective contact management database to log key information about the businesses we are building relationships with (contact names, addresses, employment information, etc), our interactions with them, and other related data.  We know that we don’t want to build our own solution and have been looking to purchase a software package like Salesforce.  Unfortunately, the hangup has been that we aren’t  totally clear on what our needs are and as a result how to evaluate the different options out there in the market.   
 
-Using the Connextra model, my team and I set aside a lunch meeting to develop a series of epics and user stories to outline who would be potentially using the database, the features we desired, and the benefits we hoped those features would provide.  We used colorful sticknotes on a white board so that we could organize the user stories into epics/themes.  A few examples are shown below.  
+Using the Connextra model, my team and I set aside a lunch meeting to develop a series of epics and user stories to outline who would be potentially using the database, the features we desired, and the benefits we hoped those features would provide. We used colorful sticknotes on a white board so that we could organize the user stories into epics/themes.  A few examples are shown below.  
 
-* **ORGANIZER/ADVOCATE**
-* **FILTER BUSINESSES BY LOCATION**
-* **ENGAGE BUSINESSES IN OUR LOCAL EVENTS AND ACTIVITIES**
-
-* **DEVELOPMENT/FUNDRAISER**
-* **FILTER BUSINESESSES BY LOCATION**
-* **INVITE BUSINESS LEADERS TO RELEVANT FUNDRAISERS**
-
-* **ORGANIZER/ADVOCATE**
-* **VIEW INTERACTION HISTORY WITH BUSINESS**
-* **IMPROVE ENGAGEMENT/AVOID OVERCONTACTING**
-
-* **ORGANIZER/ADVOCATE**
-* **VIEW AREAS OF INTEREST FOR BUSINESS CONTACT**
-* **TARGET ENGAGEMENT REQUESTS**
+* User Story Example 1
+  * Organizer/Advocate
+  * Filter Businesses by Location
+  * Engage Businesses in Local Events
+* User Story Example 2
+  * Development staff
+  * Send Fundraiser Invitation to Business
+  * Engage Businesses in Fundraising
+* User Story Example 3
+  * Organizer/Advocate
+  * View Interaction History with Business 
+  * Avoid Oversolicitation/Increase Engagement
 
 The process helped us tp develop a much more comprehensive understanding of the internal users that would be using the product and the features and benefits that the product needed to provide.  We’re now working on prioritizing the most important features and benefits and developing a survey based on the user stories to gain additional feedback from across different users in the organization before we research and evaluate how different software products stack up and ultimately choose one.
